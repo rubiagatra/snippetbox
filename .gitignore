@@ -26,3 +26,5 @@ go.work.sum
 
 # Temporary file for air
 tmp
+
+.DS_Store
